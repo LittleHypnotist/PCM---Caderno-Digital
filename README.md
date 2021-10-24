@@ -31,6 +31,6 @@ Diferenças das profundidade de bits (8 bpp, 16 bpp, 24 bpp)
 ![image](https://user-images.githubusercontent.com/75622692/138605108-2d9b02c4-6c2a-4b39-8e6f-513038dfc985.png)
 ![image](https://user-images.githubusercontent.com/75622692/138605117-28ecf789-bc01-4ece-8cf1-15d9dd08ca48.png)
 
-Sites consultados.
+Site consultado.
 
 [CambridgeinColour](https://www.cambridgeincolour.com/pt-br/tutoriais/bit-depth.htm)
