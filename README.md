@@ -38,5 +38,25 @@ Site consultado.
 
 ## Licenças Creative Commons
 
+As licenças creative commons são várias licenças públicas, que permitem a distribuição gratuita de uma obra protegida por direito autorais, isto é sejam criadores individuais ou grandes empresas, as mesmas têm uma forma de atribuir autorizações de direito de autor e de direitos conexos aos seus trabalhos criativos, de forma aos seus trabalhos poderem ser copiados, distribuídos, editados, remixados e utilizados para criar outros trabalhos sempre dentro dos limites da legislação de direito de autor e de direitos conexos.
+
+Mais a baixo imagem que contêm uma tabela com as várias licenças existentes.
+
+Informação pesquisada e estudada a partir do site [creative commons](https://creativecommons.org/licenses/?lang=pt).
+
 ![image](https://user-images.githubusercontent.com/75622692/138770712-898c8edc-c877-4c76-9621-90e8d97a6e9e.png)
+
+Imagem retirada de [ResearchGate](https://www.researchgate.net/figure/Figura-1-Simbolos-utilizados-e-atribuicoes-das-licencas-Creative-Commons-Fonte-Adaptado_fig1_304661725)
+
+## Aula prática de 27/10/2021
+
+Edição da seguinte foto.
+
+Original 
+
+<img src="https://user-images.githubusercontent.com/75622692/139541401-dfab4e6c-4ae6-4b17-8ec8-61d9d9635469.jpg" width="355" height=600>
+
+Editada
+
+<img src="https://user-images.githubusercontent.com/75622692/139541407-3584d66c-4df6-4dc7-8b04-091f3077f9e2.jpg" width="355" height=600>
 
