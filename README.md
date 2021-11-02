@@ -50,7 +50,7 @@ Imagem retirada de [ResearchGate](https://www.researchgate.net/figure/Figura-1-S
 
 ## Aula prática de 27/10/2021
 
-Edição da seguinte foto.
+Edição da seguinte foto com o programa Adobe Photoshop Lightroom.
 
 Original 
 
