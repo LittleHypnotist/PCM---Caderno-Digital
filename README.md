@@ -59,9 +59,9 @@ Editada
 
 <img src="https://user-images.githubusercontent.com/75622692/139541407-3584d66c-4df6-4dc7-8b04-091f3077f9e2.jpg" width="355" height=600>
 
-## Dumb Object / Smart Object
+## 'Dumb' Object / Smart Object
 
-A grande diferença que existe entre um dumb object e um smart object, é que quando são feitas alterações no dumb object essas mesmas alterações são definitivas isto é não podemos voltar atrás, enquanto que no smart object podemos fazer todas as alterações que quisermos em que as mesmas não são definitivas, isto é acabamos por nunca perder a imagem original pois essas alterações são facilmente retiradas.
+A diferença que existe entre um dumb object e um smart object, é que quando são feitas alterações no dumb object essas mesmas alterações são definitivas isto é não podemos voltar atrás, enquanto que no smart object podemos fazer todas as alterações que quisermos em que as mesmas não são definitivas, isto é acabamos por nunca perder a imagem original pois essas alterações são facilmente retiradas.
 
 Exemplo feito em Adobe Photoshop.
 
@@ -69,6 +69,9 @@ Exemplo feito em Adobe Photoshop.
 
 ![image](https://user-images.githubusercontent.com/75622692/141695067-4efc3c7d-e27c-45a4-94bb-0f0eb9947d4c.png)
 
+Vídeo consultado, para melhor compreensão. https://www.youtube.com/watch?v=T2Ln2DbPQx8&ab_channel=CristiKerekes
+
+Autor: [Cristi Kerekes](https://www.youtube.com/channel/UCdJGXRK6gmt1ZQBzDvfdndw)
 
 
 ## Fonts 
