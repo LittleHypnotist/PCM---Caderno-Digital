@@ -61,6 +61,14 @@ Editada
 
 ## Dumb Object / Smart Object
 
+A grande diferença que existe entre um dumb object e um smart object, é que quando são feitas alterações no dumb object essas mesmas alterações são definitivas isto é não podemos voltar atrás, enquanto que no smart object podemos fazer todas as alterações que quisermos em que as mesmas não são definitivas, isto é acabamos por nunca perder a imagem original pois essas alterações são facilmente retiradas.
+
+Exemplo feito em Adobe Photoshop.
+
+![image](https://user-images.githubusercontent.com/75622692/141695029-7b30250a-a22c-454c-af49-7810649db691.png)
+
+![image](https://user-images.githubusercontent.com/75622692/141695067-4efc3c7d-e27c-45a4-94bb-0f0eb9947d4c.png)
+
 
 
 ## Fonts 
