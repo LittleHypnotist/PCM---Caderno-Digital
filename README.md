@@ -50,7 +50,7 @@ Imagem retirada de [ResearchGate](https://www.researchgate.net/figure/Figura-1-S
 
 ## Aula prática de 27/10/2021
 
-Edição da seguinte foto com o programa Adobe Photoshop Lightroom.
+Edição da seguinte foto usando o programa Adobe Photoshop Lightroom.
 
 Original 
 
@@ -59,4 +59,20 @@ Original
 Editada
 
 <img src="https://user-images.githubusercontent.com/75622692/139541407-3584d66c-4df6-4dc7-8b04-091f3077f9e2.jpg" width="355" height=600>
+
+## Dumb Object / Smart Object
+
+
+
+
+## Fonts 
+
+É um conjunto de caracteres tipográficos que são imprimíveis ou exibíveis em um estilo e tamanho específico.
+Existem variados tipos de 'fonts' que podemos usar, mais a baixo são apresentados alguns tipos que podemos encontrar na internet, e que nós mesmos podemos usar.
+
+![image](https://user-images.githubusercontent.com/75622692/141692468-d52badbf-beca-451a-b085-77a084a64033.png)
+
+Sites consultados. 
+
+[Whatis Techtarget](https://whatis.techtarget.com/definition/font) / [Google Fonts](https://fonts.google.com/)
 
