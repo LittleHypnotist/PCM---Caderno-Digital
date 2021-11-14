@@ -24,7 +24,6 @@ Exemplo de imagem de compresão alta de JPEG
 
 ## Profundidade dos bits
 
-
 Diferenças das profundidade de bits (8 bpp, 16 bpp, 24 bpp)
 
 ![image](https://user-images.githubusercontent.com/75622692/138605079-1152be5a-6792-45da-9664-4f72b752643d.png)
@@ -62,7 +61,7 @@ Editada
 
 ## Dumb Object / Smart Object
 
-
+Uma distinção entre um objeto "inteligente" e um objeto comum é quanto ao tipo da edição na mesma. Quando se trata de um Smart Object a edição não é destrutiva,isto é, não provoca alterações irreparáveis à fotografia enquanto que nos "Dumb" Objects a manipulação de imagem passa a ser destrutiva.
 
 
 ## Fonts 
