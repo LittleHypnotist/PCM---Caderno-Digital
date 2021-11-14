@@ -61,7 +61,6 @@ Editada
 
 ## Dumb Object / Smart Object
 
-Uma distinção entre um objeto "inteligente" e um objeto comum é quanto ao tipo da edição na mesma. Quando se trata de um Smart Object a edição não é destrutiva,isto é, não provoca alterações irreparáveis à fotografia enquanto que nos "Dumb" Objects a manipulação de imagem passa a ser destrutiva.
 
 
 ## Fonts 
