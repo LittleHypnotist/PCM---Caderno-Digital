@@ -69,7 +69,7 @@ Exemplo feito em Adobe Photoshop.
 
 ![image](https://user-images.githubusercontent.com/75622692/141695067-4efc3c7d-e27c-45a4-94bb-0f0eb9947d4c.png)
 
-Vídeo consultado, para melhor compreensão. https://www.youtube.com/watch?v=T2Ln2DbPQx8&ab_channel=CristiKerekes
+Vídeo consultado, para uma melhor compreensão. https://www.youtube.com/watch?v=T2Ln2DbPQx8&ab_channel=CristiKerekes
 
 Autor: [Cristi Kerekes](https://www.youtube.com/channel/UCdJGXRK6gmt1ZQBzDvfdndw)
 
