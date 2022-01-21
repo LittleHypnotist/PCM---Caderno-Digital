@@ -86,5 +86,9 @@ Sites consultados.
 [Whatis Techtarget](https://whatis.techtarget.com/definition/font) / [Google Fonts](https://fonts.google.com/)
 
 
-## Produção do primeiro trabalho prático
+## Edição de video
+
+Alguns dos videos consultados para a produção do projeto sobre a edição de vídeo.
+
+
 
