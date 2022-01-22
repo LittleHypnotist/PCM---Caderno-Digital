@@ -90,5 +90,5 @@ Sites consultados.
 
 Alguns dos videos consultados para a produção do projeto sobre a edição de vídeo.
 
-
+Autor: [Brainstorm Tutoriais - Edição de Vídeo] https://www.youtube.com/watch?v=mw-qZ7wIBfI&t=108s&ab_channel=BrainstormTutoriais-Edi%C3%A7%C3%A3odeV%C3%ADdeo
 
