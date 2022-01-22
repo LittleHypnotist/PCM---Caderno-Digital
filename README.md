@@ -90,5 +90,17 @@ Sites consultados.
 
 Alguns dos videos consultados para a produção do projeto sobre a edição de vídeo.
 
-Autor: [Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/watch?v=mw-qZ7wIBfI&t=108s&ab_channel=BrainstormTutoriais-Edi%C3%A7%C3%A3odeV%C3%ADdeo)
+[APRENDA COMO EDITAR NO VEGAS PRO 16 em 5 MINUTOS - Tutorial para Iniciantes](https://www.youtube.com/watch?v=mw-qZ7wIBfI&t=108s&ab_channel=BrainstormTutoriais-Edi%C3%A7%C3%A3odeV%C3%ADdeo)
+
+[50 DICAS E TRUQUES DE SONY VEGAS!](https://www.youtube.com/watch?v=FGI8zHIdTrY&ab_channel=BrainstormTutoriais-Edi%C3%A7%C3%A3odeV%C3%ADdeo)
+
+Autor:[Brainstorm Tutoriais - Edição de Vídeo](https://www.youtube.com/channel/UCi07FKoTSmfT32xynSriT5w)
+
+[Como Exportar Vídeo com Qualidade no Vegas Pro 18](https://www.youtube.com/watch?v=HVrO1dntDCw&ab_channel=Abrigo76)
+
+Autor:[Abrigo76](https://www.youtube.com/channel/UCgLdbZZAKQwxx3N6XVYVHng)
+
+[Filters and Effects | LIVE Training for VEGAS Pro](https://www.youtube.com/watch?v=h4aC6kHGgk4&ab_channel=VEGASCreativeSoftware)
+
+Autor:[VEGAS Creative Software](https://www.youtube.com/watch?v=h4aC6kHGgk4&ab_channel=VEGASCreativeSoftware)
 
